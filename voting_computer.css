@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: rgb(240, 228, 237);
+}
+.header{
+    background-color: rgb(140, 138, 130);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.stemgedeelte{
+    background-color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.footer{
+    background-color: antiquewhite;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
