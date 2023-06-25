@@ -82,9 +82,6 @@ button_tellen.addEventListener("click",function(){
         buttonscontainer.removeChild(buttonscontainer.firstChild)
     }
 
- 
-    
-
     for(var key in buttonnames){
         var result = document.createElement("p");
         result.textContent =buttonnames[key]  + " stemmen voor " +  key;
